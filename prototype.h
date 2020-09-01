@@ -1,0 +1,17 @@
+int validst(char *s);
+int validI(char *v);
+int validPN(char *s);
+int validemail(char s[]);
+void load();
+void modify_Normal();
+void save();
+void add();
+void delete_contact();
+void quitproject();
+void SortByLname();
+void SortByDOB();
+void print_contacts();
+void print_sorted();
+void search_Normal();
+void search_advanced();
+void modify_advanced();

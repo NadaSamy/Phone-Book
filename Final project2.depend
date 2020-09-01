@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1577126502 source:d:\college\final project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"structures.h"
+	"prototype.h"
+
+1576964868 d:\college\final project2\prototype.h
+
+1577174383 source:d:\college\final project2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"structures.h"
+	"prototype.h"
+
+1576964828 d:\college\final project2\structures.h
+
+1577174383 source:d:\college\term 3\final project2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"structures.h"
+	"prototype.h"
+
+1576964828 d:\college\term 3\final project2\structures.h
+
+1576964868 d:\college\term 3\final project2\prototype.h
+
+1577126502 source:d:\college\term 3\final project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"structures.h"
+	"prototype.h"
+
